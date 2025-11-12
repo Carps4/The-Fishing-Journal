@@ -1,0 +1,16 @@
+{
+  "included_files": [
+    "src",
+    "public",
+    "dist",
+    "final_fishing_logbook_static_build.zip",
+    "package.json",
+    "README.md",
+    ".gitignore",
+    "LICENSE"
+  ],
+  "dist_snapshot": [
+    "dist/index.html",
+    "dist/README.txt"
+  ]
+}

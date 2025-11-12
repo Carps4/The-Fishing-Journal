@@ -1,0 +1,18 @@
+{
+  "name": "fishing-logbook",
+  "version": "1.0.0",
+  "description": "Fishing Logbook \u2014 source + provided static build (dist) ready to push to GitHub.",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build --outDir dist",
+    "preview": "vite preview --port 5173",
+    "serve-dist": "npx http-server dist -p 8080"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}

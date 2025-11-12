@@ -1,0 +1,1 @@
+Final static distribution - topbar fixed and click handlers enforced. Drop on Netlify.
